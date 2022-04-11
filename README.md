@@ -3,9 +3,9 @@
 This repository was set up to show that the count/plural functionality does not currently work for locales with underscore, and not for en150 either.
 
 Version specs at time of reading:
-    - "next": "12.1.4",
-    - "next-i18next": "^11.0.0"
-    - "typescript": "4.6.3"
+   - "next": "12.1.4"
+   - "next-i18next": "^11.0.0"
+   - "typescript": "4.6.3"
 
 To test this:
 - Run the dev server:

@@ -1,0 +1,6 @@
+{
+    "car_one": " {{count}} car from common EN",
+    "car_other": " {{count}} cars from common en",
+    "normal": "From common file en",
+    "withInterpolation": "Interpolated value {{bar}} in common en"
+}
